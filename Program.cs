@@ -1,4 +1,4 @@
-//Created by Jack Barber (17633953) / 2018
+//Created by Jack Barber / 2018
 
 using System;
 using System.IO;
